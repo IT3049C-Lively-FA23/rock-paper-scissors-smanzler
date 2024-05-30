@@ -7,16 +7,21 @@
 Instructions to this assignment can be found [here](https://reedws.github.io/IT3049C/coursework/assignments/rock-paper-scissors/).
 - [x] update the assignment checks above to the correct link. - Done Automatically
 ## Checklist:
-- [ ] update the assignment checks above to the correct link
-- [ ] All tests are passing
-- [ ] filled out the self-evaluation.
-- [ ] filled out the self-reflection.
+- [x] update the assignment checks above to the correct link
+- [x] All tests are passing
+- [x] filled out the self-evaluation.
+- [x] filled out the self-reflection.
 
 ## Self-Evaluation: 
 how many points out of 20 does your team deserve on this assignment. Revise the assignment grading guideline and assignment rubrics for guidance.
 
+I think I deserve 20 out of 20 points on this assignment
+
 ## Team Reflection:
 - Where did you encounter struggles today, and what did you do to deal with it?
 
+The only thing I struggled with was what functions I needed to call to get the correct data to pass into the functions I made. 
 
 ### How long it took us to finish this?
+
+Took about 45 minutes
